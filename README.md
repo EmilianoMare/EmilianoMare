@@ -9,9 +9,11 @@
 📱 Desarrollador de aplicaciones web.
 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 💼 Tengo experiencia en desarrollo de aplicaciones web y de escritorio
-🌐 Puedes ver mi currículum aquí.
-📫 Puedes contactarme en mi linkedin 
-<img align="right" alt="Coding" width="300" src="https://avatars.githubusercontent.com/u/94972389?s=400&u=7fa97bb34523af4baffeae5fcd56904a72e5453d&v=4">
+🌐 <a href="[https://www.linkedin.com/in/emiliano-mare-498095236/](https://emilianomare.github.io/Curriculum-Emiliano-Mare/)" target="_blank">Puedes ver mi curriculum aqui/a>
+
+📫 <a href="https://www.linkedin.com/in/emiliano-mare-498095236/" target="_blank">Visita mi LinkedIn</a>
+
+
 
 
 <br>
