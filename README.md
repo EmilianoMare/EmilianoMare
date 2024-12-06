@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-📱 Desarrollador de aplicaciones web.
-🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
-💼 Tengo experiencia en desarrollo de aplicaciones web y de escritorio
-🌐 <a href="[https://www.linkedin.com/in/emiliano-mare-498095236/](https://emilianomare.github.io/Curriculum-Emiliano-Mare/)" target="_blank">Puedes ver mi curriculum aqui/a>
-
+📱 Desarrollador de aplicaciones web.  
+🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.  
+💼 Tengo experiencia en desarrollo de aplicaciones web y de escritorio.  
+🌐 <a href="https://emilianomare.github.io/Curriculum-Emiliano-Mare/" target="_blank">Puedes ver mi currículum aquí</a>  
 📫 <a href="https://www.linkedin.com/in/emiliano-mare-498095236/" target="_blank">Visita mi LinkedIn</a>
+
 
 
 
