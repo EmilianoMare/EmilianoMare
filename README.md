@@ -1,11 +1,16 @@
 <h1 align="center">Hola 👋, soy Emiliano</h1>
 
+![image](https://github.com/user-attachments/assets/7da03a74-887d-441a-80d9-806aa3113fb6)
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱Actualmente estoy aprendiendo **Desarrollo WEB**
+📱 Desarrollador de aplicaciones web.
+🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
+💼 Tengo experiencia en desarrollo de aplicaciones web y de escritorio
+🌐 Puedes ver mi currículum aquí.
+📫 Puedes contactarme en mi linkedin 
 <img align="right" alt="Coding" width="300" src="https://avatars.githubusercontent.com/u/94972389?s=400&u=7fa97bb34523af4baffeae5fcd56904a72e5453d&v=4">
 
 
