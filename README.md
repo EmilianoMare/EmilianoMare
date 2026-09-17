@@ -1,6 +1,11 @@
 # 👋 Hola, soy Emiliano Mare
 
 ### 💻 Desarrollador de Software | C# · .NET · ASP.NET Core · SQL Server
+<p align="left">
+  <a href="https://emilianomare.github.io/Curriculum-Emiliano-Mare/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Ver_Currículum_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Currículum Web" />
+  </a>
+</p>
 
 Soy **Desarrollador de Software** orientado al ecosistema **.NET**, con foco en el desarrollo backend y aplicaciones web.
 
