@@ -1,69 +1,165 @@
-<h1 align="center">Hola 👋, soy Emiliano</h1>
+# 👋 Hola, soy Emiliano Mare
 
-![image](https://github.com/user-attachments/assets/7da03a74-887d-441a-80d9-806aa3113fb6)
+### 💻 Desarrollador de Software | C# · .NET · ASP.NET Core · SQL Server
 
+Soy **Desarrollador de Software** orientado al ecosistema **.NET**, con foco en el desarrollo backend y aplicaciones web.
 
+Actualmente estoy profundizando mis conocimientos en **C#, ASP.NET Core, APIs REST, SQL Server, arquitectura por capas y buenas prácticas de desarrollo**.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Me interesa construir aplicaciones que resuelvan problemas reales, desde sistemas de gestión hasta soluciones web para pequeños negocios.
 
-📱 Desarrollador de aplicaciones web.  
-🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.  
-💼 Tengo experiencia en desarrollo de aplicaciones web y de escritorio.  
-🌐 <a href="https://emilianomare.github.io/Curriculum-Emiliano-Mare/" target="_blank">Puedes ver mi currículum aquí</a>  
-📫 <a href="https://www.linkedin.com/in/emiliano-mare-498095236/" target="_blank">Visita mi LinkedIn</a>
+---
 
+## 🚀 Sobre mí
 
+* 💻 Desarrollo aplicaciones utilizando **C# y .NET**.
+* 🌐 Desarrollo de aplicaciones web con **ASP.NET Core**.
+* 🔌 Trabajo con **APIs REST** y arquitectura de aplicaciones.
+* 🗄️ Experiencia trabajando con **SQL Server y MySQL**.
+* 🔧 Utilizo **Git y GitHub** para control de versiones.
+* 🌎 También desarrollo sitios web y soluciones digitales para clientes.
+* 📚 Actualmente continúo profundizando mis conocimientos en desarrollo backend.
+* 📍 Pilar, Córdoba, Argentina.
 
+---
 
+## 🛠️ Tecnologías
 
-<br>
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
-  </a>
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+</p>
+
+**C# · .NET · ASP.NET Core · MVC · APIs REST**
+
+### Bases de datos
+
+<p>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+</p>
+
+**SQL Server · MySQL · SQL · CRUD · Stored Procedures · Modelado relacional**
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+</p>
+
+**HTML5 · CSS3 · Bootstrap · Responsive Design**
+
+### Herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio" />
+</p>
+
+**Git · GitHub · Visual Studio · VS Code**
+
+---
+
+## 📌 Proyectos
+
+### 🧾 Sistema de gestión
+
+Aplicación web desarrollada con **ASP.NET Core y SQL Server**, orientada a la gestión de información mediante operaciones CRUD.
+
+**Tecnologías:**
+
+`C#` `ASP.NET Core` `MVC` `SQL Server` `Stored Procedures`
+
+---
+
+### 🚚 Sistema para distribuidoras
+
+Sistema orientado a la gestión de **productos, clientes, pedidos, vehículos, zonas y distribución**.
+
+El proyecto busca centralizar la información de la distribuidora y facilitar la organización de pedidos y entregas.
+
+**Tecnologías:**
+
+`C#` `.NET` `SQL Server` `Web`
+
+---
+
+### 📱 Cartas digitales
+
+Desarrollo de soluciones web para comercios y emprendimientos, permitiendo mostrar productos y facilitar el contacto y los pedidos mediante **WhatsApp**.
+
+**Tecnologías:**
+
+`HTML` `CSS` `Responsive Design` `WhatsApp`
+
+---
+
+## 🎓 Formación
+
+**Técnico Superior en Desarrollo de Software**
+
+Instituto Superior Villa del Rosario
+
+Actualmente en etapa final de formación.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+
+<img
+ src="https://github-readme-stats.vercel.app/api?username=EmilianoMare&show_icons=true&theme=github_dark&hide_border=true"
+ height="170"
+/>
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoMare&layout=compact&theme=github_dark&hide_border=true"
+ height="170"
+/>
 
 </p>
 
+---
 
+## 🤝 Conectemos
 
-<hr width="36%" >
-
-
-<hr width="60%" >
-<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
-  </a>
- 
+
+<a href="https://github.com/EmilianoMare" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/emiliano-mare-498095236/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:emilianomare2997@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
 </p>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+---
 
-------
+<p align="center">
+  <i>Construyendo soluciones, aprendiendo constantemente y creciendo como desarrollador.</i>
+</p>
 
 
 
